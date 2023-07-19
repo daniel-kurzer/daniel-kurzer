@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [daniel-kurzer.de](daniel-kurzer.de)
+- 👨‍💻 All of my projects are available at <a href="https//:www.daniel-kurzer.de">daniel-kurzer.de</a>
 
 - 📫 How to reach me **daniel.kurzer@outlook.de**
 
