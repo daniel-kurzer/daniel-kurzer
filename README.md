@@ -1,4 +1,4 @@
-<body background=""black>
+<body background="black">
 <h1 align="center" style="background:#93E5AB; color:white;">Hi 👋, I'm Daniel Kurzer</h1>
 <h3 align="center">a IT Specialist Software Development from Stuttgart, Germany</h3>
 
