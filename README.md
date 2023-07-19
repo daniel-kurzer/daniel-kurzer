@@ -1,5 +1,5 @@
 
-<h1 align="center" style="background: #93E5AB color: white">Hi 👋, I'm Daniel Kurzer</h1>
+<h1 align="center" style="background:#93E5AB color:white">Hi 👋, I'm Daniel Kurzer</h1>
 <h3 align="center">a IT Specialist Software Development from Stuttgart, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-kurzer&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-kurzer" /> </p>
