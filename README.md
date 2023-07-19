@@ -1,5 +1,5 @@
 ![logo](https://github.com/daniel-kurzer/daniel-kurzer/blob/main/Banner-gitHub.PNG)
-<h1 align="center" style="font-size:4em; ">Hi 👋, I'm Daniel Kurzer</h1>
+<h1 align="center">Hi 👋, I'm Daniel Kurzer</h1></font>
 <h3 align="center">a IT Specialist Software Development from Stuttgart, Germany</h3>
 
 <img align="right" alt ="coding_gif" width="450" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif">
@@ -23,7 +23,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=daniel-kurzer&theme=merko&hide_border=false)<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-kurzer&show_icons=true&locale=en&layout=compact" alt="daniel-kurzer" /></p>
 </body>
