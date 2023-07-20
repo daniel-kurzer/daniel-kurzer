@@ -1,6 +1,6 @@
 ![logo](https://github.com/daniel-kurzer/daniel-kurzer/blob/main/Banner-gitHub.PNG)
 <h1 align="center">Hi 👋, I'm Daniel Kurzer</h1></font>
-<h3 align="center">a IT Specialist Software Development from Stuttgart, Germany</h3>
+<h3 align="center">a IT Specialist Software Development from Stuttgart, Germany 🇩🇪</h3>
 
 <img align="right" alt ="coding_gif" width="450" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif">
 
