@@ -1,16 +1,16 @@
 ![logo](https://github.com/daniel-kurzer/daniel-kurzer/blob/main/Banner-gitHub.PNG)
-<h1 align="center">Hi 👋, I'm Daniel Kurzer</h1></font>
+<h1 align="center">Hello, I'm Daniel Kurzer</h1></font>
 <h3 align="center">a IT Specialist Software Development from Stuttgart, Germany 🇩🇪</h3>
 
 <img align="right" alt ="coding_gif" width="450" src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-kurzer&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-kurzer" /> </p>
 
-- 🔭 I’m currently working on [my Portfolio](https://github.com/daniel-kurzer/Portfolio)
+- 🔭 I’m currently working on [my Portfolio](https://daniel-kurzer.github.io/)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at <a href="https//:www.daniel-kurzer.de">daniel-kurzer.de</a>
+- 👨‍💻 All of my projects are available at <a href="https://daniel-kurzer.github.io/">daniel-kurzer.github.io</a>
 
 - 📫 How to reach me **daniel.kurzer@outlook.de**
 
