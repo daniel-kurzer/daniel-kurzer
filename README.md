@@ -1,6 +1,7 @@
-# <h1 align="center">Hello, I'm Daniel Kurzer</h1></font>
-![logo](https://github.com/daniel-kurzer/daniel-kurzer/blob/main/Code%20Quote.png)
+# <h1 align="center">Hello, I'm Daniel Kurzer</h1>
 ## <h3 align="center">a IT Specialist Software Development from Stuttgart, Germany 🇩🇪</h3>
+![logo](https://github.com/daniel-kurzer/daniel-kurzer/blob/main/Code%20Quote.png)
+
 
 <br></br>
 
