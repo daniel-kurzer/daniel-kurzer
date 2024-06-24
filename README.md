@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://daniel-kurzer.github.io/)
 
-- 🌱 I’m currently learning **JavaScript & C#** 
+- 🌱 I’m currently learning **React.JS, React Native & C#** 
 
 - 👨‍💻 All of my projects are available at <a href="https://daniel-kurzer.github.io/">daniel-kurzer.github.io</a>
 
