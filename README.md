@@ -7,7 +7,7 @@
 <br></br>
 
 
-<img align="right" alt ="coding_gif" width="450" src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_423_752/0/1630526455370?e=1719446400&v=beta&t=4xy0jBUQ84TIWmABpMRAOunlGNf843_pM9c1HE6kWCs">
+<img align="right" alt ="coding_gif" width="450" src="https://media1.tenor.com/m/-buzIaq-QeoAAAAd/code-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-kurzer&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-kurzer" /> </p>
 
