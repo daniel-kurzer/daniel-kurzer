@@ -51,6 +51,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-kurzer&show_icons=true&locale=en&layout=compact" alt="daniel-kurzer" /></p>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </body>
