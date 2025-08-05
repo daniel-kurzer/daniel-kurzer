@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-kurzer&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-kurzer" /> </p>
 
-- 🔭 I’m currently working on my SAAS Project
+- 🔭 I’m currently working on my **SAAS Project**
 
 - 🌱 I’m currently learning **React.JS, React Native & C#** 
 
 - 👨‍💻 All of my projects are available at <a href="https://daniel-kurzer.de">daniel-kurzer.de</a>
 
-- 📫 How to reach me **daniel.kurzer@outlook.de & daniel.kurzer.de**
+- 📫 How to reach me **daniel.kurzer@outlook.de**
 
 <br></br>
 
